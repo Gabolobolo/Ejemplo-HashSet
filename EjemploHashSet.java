@@ -8,6 +8,8 @@ public class EjemploHashSet {
         emails.add("ana@example.com");
         emails.add("juan@example.com");
         emails.add("ana@example.com");
+        emails.add("gabo@example.com");
+        emails.add("GABO@example.com");
 
 
         System.out.println("Correos registrados:");
